@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+autopep8
+email_validator
+passlib
+bcrypt
+python-multipart
+python-jose
+aiofile
